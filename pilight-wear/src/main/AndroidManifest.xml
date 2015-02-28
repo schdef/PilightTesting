@@ -8,11 +8,6 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name">
         <activity
-            android:name=".WearMainActivity"
-            android:label="@string/app_name">
-
-        </activity>
-        <activity
             android:name="by.zatta.pilight.SimpleListActivity"
             android:label="@string/app_name">
             <intent-filter>
